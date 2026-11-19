@@ -29,75 +29,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-products)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The AI video editing and creation market is estimated at roughly $3.75B to $4.4B, expanding at an annual growth rate exceeding 18-20% as automated production workflows become mainstream. The sector remains moderately to highly fragmented rather than a "winner-take-all" landscape; specialized point solutions (transcript editors, generative diffusion platforms, and AI avatars) coexist and integrate alongside traditional enterprise creative suites.
 
 ## SaaS/Hosted Platforms
 
-- **[Descript](https://www.descript.com/)**  
-
-  Transcript-based video and podcast editor: edit media by editing text, with filler removal, overdub, and collaboration features.
-
-
-
-- **[Runway Video Editor](https://runwayml.com/)**  
-
-  AI-native creative suite combining generation, inpainting, motion tools, and editing workflows for film and social content.
-
-
-
-- **[Kapwing](https://www.kapwing.com/)**  
-
-  Browser-based collaborative editor for quick cuts, captions, templates, and team workflows without heavy installs.
-
-
-
-- **[Clipchamp](https://clipchamp.com/)**  
-
-  Microsoft’s accessible video editor (web and Windows) with templates, auto captions, and straightforward export options.
-
-
-
-- **[Riverside.fm](https://riverside.fm/)**  
-
-  High-quality remote recording plus AI-assisted editing and clip creation for podcasts and video interviews.
-
-
-
-- **[VEED.IO](https://www.veed.io/)**  
-
-  Online editor focused on subtitles, translation, branding, and social-ready exports for marketers and creators.
-
-
-
-- **[InVideo](https://invideo.io/)**  
-
-  Template-driven AI video creation and editing aimed at marketing, explainers, and social content at scale.
-
-
-
-- **[Adobe Premiere Web](https://www.adobe.com/products/premiere.html)**  
-
-  Browser-oriented Premiere experience connected to Adobe’s broader Creative Cloud ecosystem and AI features.
-
-
-
-- **[WeVideo](https://www.wevideo.com/)**  
-
-  Cloud video platform for education and teams with collaborative editing, templates, and classroom-oriented tools.
-
-
-
-- **[FlexClip](https://www.flexclip.com/)**  
-
-  Online video maker with stock assets, templates, and AI-assisted creation for quick marketing and social videos.
+| Product | Company Scale (Valuation / Revenue) | Description | Starting Tier Pricing | Free Tier Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Clipchamp](https://clipchamp.com/)** | ~$3.1T Market Cap (Microsoft) | Microsoft’s accessible video editor (web and Windows) with templates, auto captions, and straightforward export options. | $11.99/mo (or bundled in Microsoft 365) | Free forever: Unlimited exports up to 1080p, no watermarks, basic stock assets (4K & cloud backup require Premium) |
+| **[Adobe Premiere Web](https://www.adobe.com/products/premiere.html)** | ~$90B Market Cap / ~$21B+ Rev (Adobe) | Browser-oriented Premiere experience connected to Adobe’s broader Creative Cloud ecosystem and AI features. | $22.99/mo (Premiere Pro annual plan) | 7-day free trial (full access to Premiere Pro desktop/web companion; Adobe Express companion free forever tier has 25 monthly AI credits & 5GB storage) |
+| **[Runway Video Editor](https://runwayml.com/)** | $5.3B Valuation / ~$200M ARR | AI-native creative suite combining generation, inpainting, motion tools, and editing workflows for film and social content. | $15/mo ($12/mo billed annually) | Free forever: 125 one-time lifetime generation credits (no recurring refill), 720p exports with watermark, 5GB storage |
+| **[Descript](https://www.descript.com/)** | ~$550M Valuation / ~$55M ARR | Transcript-based video and podcast editor: edit media by editing text, with filler removal, overdub, and collaboration features. | $16/mo ($24/mo billed monthly) | Free forever: 1 hour (60 min) transcription per month, 100 one-time AI credits, 720p export cap, 5GB storage |
+| **[Riverside.fm](https://riverside.fm/)** | ~$500M+ Valuation / $100M+ ARR | High-quality remote recording plus AI-assisted editing and clip creation for podcasts and video interviews. | $24/mo ($35/mo billed monthly) | 14-day free trial with full access to Pro/Grow recording & AI editing features (no permanent free tier) |
+| **[InVideo](https://invideo.io/)** | ~$200M+ Valuation / $70M+ ARR | Template-driven AI video creation and editing aimed at marketing, explainers, and social content at scale. | $10/seat/mo ($20/mo billed monthly) | Free forever: Generates script/video previews with watermark, 720p exports, 10 min/week AI generation cap |
+| **[VEED.IO](https://www.veed.io/)** | ~$150M–$250M Valuation / ~$50M ARR | Online editor focused on subtitles, translation, branding, and social-ready exports for marketers and creators. | $12/mo ($25/mo billed monthly) | Free forever: 720p export cap, mandatory watermark, 10 min export length limit, 50 AI credits/mo, 2GB storage |
+| **[Kapwing](https://www.kapwing.com/)** | ~$50M–$100M Valuation / ~$10M ARR | Browser-based collaborative editor for quick cuts, captions, templates, and team workflows without heavy installs. | $16/seat/mo ($24/mo billed monthly) | Free forever: 720p export cap, watermark on exports, 4 min max per video, 30 min total export time/mo, 10 lifetime AI credits |
+| **[WeVideo](https://www.wevideo.com/)** | Private Equity Owned / ~$4M+ ARR | Cloud video platform for education and teams with collaborative editing, templates, and classroom-oriented tools. | $20/mo ($28/mo billed monthly) | 7-day free trial (Creator/Instructor features; legacy free plan limited to 5 min/mo publish time, 1GB storage, watermark) |
+| **[FlexClip](https://www.flexclip.com/)** | Bootstrapped / Private (PearlMountain) | Online video maker with stock assets, templates, and AI-assisted creation for quick marketing and social videos. | $11.99/mo ($19.99/mo billed monthly) | Free forever: 720p export cap, FlexClip intro watermark branding, max 10 min video length, 12 saved projects limit |
 
 
 
