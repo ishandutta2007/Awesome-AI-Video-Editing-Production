@@ -65,7 +65,7 @@ A comparison of leading hosted AI video suites, sorted in descending order by co
 
 ## 💻 Open-Source GitHub Projects
 
-Explore open-source video editing suites, speech-to-text models, agentic workflows, and rendering frameworks. Sorted in **descending order by GitHub star count**:
+Explore open-source video editing suites, speech-to-text models, agentic workflows, and rendering frameworks. Sorted in **descending order by GitHub Stars_Count**:
 
 - **[openai/whisper](https://github.com/openai/whisper)** [![Stars](https://img.shields.io/github/stars/openai/whisper?style=social&color=white)](https://github.com/openai/whisper/stargazers)  
   General-purpose speech recognition model widely used for automated transcription, subtitle generation, and text-based cut points.
